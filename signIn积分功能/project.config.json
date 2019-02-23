@@ -1,5 +1,5 @@
 {
-	"description": "项目配置文件。",
+	"description": "项目配置文件",
 	"packOptions": {
 		"ignore": []
 	},
@@ -11,9 +11,12 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.2.3",
+	"libVersion": "2.4.1",
 	"appid": "wx73f5ac3f5c358874",
-	"projectname": "%E5%91%A8%E6%97%A5%E5%8E%86-%E7%A7%AF%E5%88%86",
+	"projectname": "%E5%91%A8%E7%A7%AF%E5%88%86---%E7%AD%BE%E5%88%B0%E5%95%8A",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
 	"isGameTourist": false,
 	"condition": {
 		"search": {
@@ -24,24 +27,13 @@
 			"current": -1,
 			"list": []
 		},
-		"plugin": {
-			"current": -1,
-			"list": []
-		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
 		"miniprogram": {
 			"current": -1,
-			"list": [
-				{
-					"id": -1,
-					"name": "signIn2",
-					"pathName": "pages/signIn2/signIn2",
-					"query": ""
-				}
-			]
+			"list": []
 		}
 	}
 }
